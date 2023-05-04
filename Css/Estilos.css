@@ -1,0 +1,13 @@
+body{
+    background-color: darkcyan;
+}
+
+li{
+    font-size: 20px;
+    display:inline-block;
+    margin-right: 8px;
+    padding: 10px;
+}
+ul{
+    text-align: right;
+}
